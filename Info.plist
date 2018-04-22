@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Yannick Weiss</string>
+	<key>Builder Version</key>
+	<string>13605.1.33.1.2</string>
+	<key>CFBundleDisplayName</key>
+	<string>RoundNumbers</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yannickweiss.roundnumbers</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>code.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>No more psychological pricing, give our brains a break!</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>www.digitec.ch</string>
+				<string>www.daydeal.ch</string>
+				<string>www.galaxus.ch</string>
+				<string>www.brack.ch</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://yannickweiss.com</string>
+</dict>
+</plist>

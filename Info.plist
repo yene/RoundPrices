@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>13605.1.33.1.2</string>
 	<key>CFBundleDisplayName</key>
-	<string>RoundNumbers</string>
+	<string>RoundPrices</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yannickweiss.roundnumbers</string>
+	<string>com.yannickweiss.roundprices</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>

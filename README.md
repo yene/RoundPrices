@@ -1,5 +1,5 @@
-# RoundNumbers
 <img align="right" src="Icon.png">
+# RoundPrices
 A Safari extension to round annoying 3.99 prices to something that is easy to read.
 
 ## TODO
